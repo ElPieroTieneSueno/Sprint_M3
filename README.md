@@ -2,8 +2,8 @@
 ## Sprint final módulo 3
 ### Integrantes
 * [Pamela Correa](https://github.com/Pame-b182/Sprint_M3)
-* [Nelson Medel](https://github.com/chinomedel)
-* [Sebastián Muñoz](https://github.com/SebMunz)
+* [Nelson Medel](https://github.com/chinomedel/M3_Sprint)
+* [Sebastián Muñoz](https://github.com/SebMunz/M3_Sprint)
 
 
 
