@@ -1,8 +1,7 @@
 # M3_Sprint
 ## Sprint final módulo 3
 ### Integrantes
-* [Miguel Lucero](https://github.com/miguellucero123)
-* [Pamela Correa](https://github.com/Pame-b182)
+* [Pamela Correa](https://github.com/Pame-b182/Sprint_M3)
 * [Nelson Medel](https://github.com/chinomedel)
 * [Sebastián Muñoz](https://github.com/SebMunz)
 
